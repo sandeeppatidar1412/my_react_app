@@ -10,7 +10,7 @@ export default function Home() {
         <h3 className="text-xl font-semibold text-slate-900">Routes</h3>
         <ul className="mt-4 space-y-2 text-slate-700">
           <li></li>
-          <li>/users</li>
+          <li>users</li>
         </ul>
       </div>
     </section>
